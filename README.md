@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=doychinivanov)
 [![Years Badge](https://badges.pufler.dev/years/doychinivanov)](https://badges.pufler.dev) -->
 
@@ -16,14 +14,13 @@
 </p>
 
 
-<!-- ## A Human Being, also a Full Stack Developer!!   -->
+## Full Stack Developer.  
 
-- 🔭 I’m currently working on a project for SoftUni Bootcamp, as well on some personal projects of mine
-- 🌱 I’m currently learning algorithms
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+- 🔭 I’m currently working on a project for SoftUni Bootcamp, as well as on some personal projects of mine.
+- 🌱 I’m currently learning algorithms.
 - 💬 Ask me anything about programming.
 - 📫 How to reach me: doychinivn@gmail.com.
-<!-- - - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: I have visited 15 countries and intend to increase that int.
 <!-- - 😄 Pronouns: ... -->
-
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
