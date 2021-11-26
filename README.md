@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=doychinivanov)
+[![Years Badge](https://badges.pufler.dev/years/doychinivanov)](https://badges.pufler.dev)
+
 <!-- <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=doychinivanov&count_private=true&show_icons=true" height="165px" >
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doychinivanov&layout=compact" height="165px" >
