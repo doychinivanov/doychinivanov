@@ -16,7 +16,6 @@
 
 ## Full Stack Developer.  
 
-- 🔭 I’m currently working on a project for SoftUni Bootcamp, as well as on some personal projects of mine.
 - 🌱 I’m currently learning algorithms.
 - 💬 Ask me anything about programming.
 - 📫 How to reach me: doychinivn@gmail.com.
