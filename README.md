@@ -16,7 +16,6 @@
 
 ## Full Stack Developer.  
 
-- 🌱 I’m currently learning algorithms.
 - 💬 Ask me anything about programming.
 - 📫 How to reach me: doychinivn@gmail.com.
 - ⚡ Fun fact: I have visited 15 countries and intend to increment that int.
