@@ -18,7 +18,6 @@
 
 - 💬 Ask me anything about programming.
 - 📫 How to reach me: doychinivn@gmail.com.
-- ⚡ Fun fact: I have visited 15 countries and intend to increment that int.
 <!-- - 😄 Pronouns: ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
